@@ -108,6 +108,7 @@
 .logo-container {
     grid-area: logo;
     align-self: center;
+    text-align: left;
     margin: 0;
 }
 .hero-image {
