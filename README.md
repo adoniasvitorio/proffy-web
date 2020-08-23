@@ -18,7 +18,7 @@ Mobile: https://github.com/adoniasvitorio/proffy-mobile<br />
 
 ## INSTALL AND RUN
 
-```git clone https://github.com/adoniasvitorio/proffy-backend.git```<br />
+```git clone https://github.com/adoniasvitorio/proffy-web.git```<br />
 ```cd proffy-backend```<br />
 ```yarn start``` or ``` npm start```<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
