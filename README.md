@@ -1,3 +1,7 @@
+<h1 align="center" background="blue">
+ <img src="proffy-home.png" alt="Proffy" width="600px" />
+</h1>
+
 # Proffy - Plataforma de Estudos Online
 
 Este projeto é uma plataforma de estudos online, onde alunos interessados em aprender qualquer assunto podem se conectar a professores dispostos a ensiná-los. A tecnologia utilizada para desenvolver este projeto é o **React** com **TypeScript**.
